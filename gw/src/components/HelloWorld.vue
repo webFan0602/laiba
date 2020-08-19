@@ -1,7 +1,5 @@
 <template>
-  <div>
-    888
-  </div>
+    <div>加油啊 兄弟  你一定能行的</div>
 </template>
 
 <script>
